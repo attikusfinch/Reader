@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reader</string>
+
+    <string name="course_name">Title</string>
+    <string name="course_rating">Description</string>
+
+    <string name="next_page">Далее</string>
+    <string name="previous_page">Назад</string>
+</resources>
